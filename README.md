@@ -1,2 +1,3 @@
 # Trabajos
-Aquí van mis tareas
+
+este es un repositorio de prueva ~(°_°~)
